@@ -1,0 +1,2 @@
+# kartu-domino
+Auto
